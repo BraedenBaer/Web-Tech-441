@@ -1,6 +1,7 @@
 body{
     background-image: url(Skyrim.jpeg);
     background-size: cover;
+    color: aqua;
     height: 50vh;
     background-position: center;
 }
